@@ -1,10 +1,13 @@
 Problem1: Why is there a lot of hype around blockchain?
+
 The hype is due to the opportunities blockchain brings in so many industries. The idea of a distributed database that is immutable, untamperable is really beneficial for Finance and logistics sector where right now any payments is done via companies like Visa where they act like MiddleMan and handle the transaction, maintain the data and state about the transaction. In logistics where transferring of paperwork is the real bottleneck, Blockchain could change the way for digital paperwork. On going through articles about it I found a company used to ship Tuna from Mexico to Canada and their total transfer time (paper work and checking) used to be 7-10 days. By adopting blockchain they could optimize the time and now it's getting done in 2.5 hrs. Even in India, company like Bajaj Electrical adopted Blockchain to optimize they payment time for different anciallary Industries that are involved in manufacturing components of their light bulb or blender. So yeah there are plenty of opportunities that still need to be discovered. Even the way companies get funded via ICO rather than traditional way of going to VC's. A lot has changed since the advent of Blockchain.
 
 Problem2: What got you fascinated with Blockchain and why?
+
 I had been to Bootcamp in Bangalore, Jaaga Study where a couple of folks where building Ethereum based Smart Contract Ezether [https://ezether.com], though till 3 months I couldn't get my head around these crazy guys but the idea of No Centralized Bank, everything is decentralized. The idea of everything is governed by bureaucrats and Government might be the that got me interested. But yeah the way I invested my money in Ethereum was when one of my friends from Cali had to pay me a couple of bucks for a trip we took last year. Since he didn't had Indian Rupees, he paid me in Ether. A year later I see the money is 50k.
 
 Problem3: What is the most pressing challenge in Blockchain?
+
 The problem is scalability. There is considerable difference between transactions per second and the confirmation fees and time. Storing of data in blockchain is an expensive operation.
 
 
